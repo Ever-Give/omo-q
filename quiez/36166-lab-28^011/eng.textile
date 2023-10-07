@@ -1,0 +1,316 @@
+Lab 28
+
+Author: quiez
+
+*011*2017-03-27 11:33
+
+Thanks! Hope all you guys enjoy the next few chapters.
+
+5. The Subject
+
+‘Aisha?’ I snapped out of my stare as soon as I heard Elina’s voice calling out to me from about 10 meters away. I didn’t realize I had stopped walking. She was standing beside a guy in a white lab coat; he towered over her and was about a foot taller than me. I briskly walked over and stuck out my hand. ‘This is Jan, the overall test lead.’
+
+Jan: ‘Hi Aisha, you’re finally here. I read your work profile and was really impressed with your work on humanizing robots and human-robot interaction. We thought that you’ll be a great help over here with what we are trying to do.’
+
+Me: ‘Thank you. Guess I didn’t get to publish any papers on that though..’
+
+Jan: ‘It’s ok, not everyone looks at papers. I see you have already got really intrigued by our prototype.’
+
+Me: ‘Yes. What exactly is she?’
+
+Jan: ‘Suppose Andrew didn’t give you a brief?’
+
+Me: ‘No. Could you fill me in?’
+
+Jan: ‘It, or she, is Lenna. She’s in standby now, so we officially use the moniker ‘it’, but for the sake of maintaining inverse-Turing protocols we refer to ‘it’ as ‘she’ when it’s awake.’
+
+Jan had encroached on my specialty. I overreacted to his advice: ‘That’s great. I see you have already have some interaction policies in place. Judging by your caution it looks like you have already experienced some issues with the AI suffering from existential crises and cascading depression from being treated non-equivalently. I sure hope this subject here did not reach that state. I observed progression and prognosis in simulated virtual intelligence and it was not pleasant at all - I can imagine it would be much more severe with an actual physical being.’
+
+Jan’s eyes sparkled. It was as if I spoke a miracle. He paused for a moment and replied: ‘Unfortunately, you are absolutely right. She has already tried destroying herself more than once since she was activated last month. We have been trying very hard to alter her neural matrices in an effort to reverse the behavior and to prevent self-destruction from happening repeatedly, but it’s getting exponentially more complex to do so as she learns. I admit we are running out of ideas. Really hoping you’re our savior.’ Jan smiled.
+
+Elina looked at us blankly and sighed. I guess she couldn’t really understand why we were so concerned about a non-living being, and I could see her point.
+
+I turned towards Elina and asked: ’Elina, is there anything else I need to do?’
+
+Elina brightened up. ‘Well, I think I should introduce you to the rest of the immediate team, or perhaps Jan can do it.’
+
+The team was a mash of misfits; a total geek who could only babble technical terms, a shy girl who would only say her name and say hi, a burly guy with tattoos who was obviously some sort of mechanic and a few others that hardly made an impression. We completed the mandatory introductions when I felt a first tingle from my bladder. I deployed my usual bladder control strategy of squeezing my pelvic muscles until the wave passed. I looked at Elina and noted that she had already finished her bottle of water. Maybe I can count on her to lead me to a bathroom.
+
+‘That’s your team!’ she chirped. ‘I’ll hang around her to chat with a few of them, you can continue your geek talk with Jan. Tell me when you’re done so I can bring you back! I don’t like going back in that buggy alone.’
+
+Jan was standing near ‘it’ looking at a few screens that were mounted on a movable trolley. I approached him; this was incredible and I had to have a closer look. I walked up and was about half a meter from the robot when he stopped me. ‘Not good to get too close. We’re undergoing tuning right now and there could be unexpected movement.’
+
+Me: ‘Sorry. I just wanted to have a look.’
+
+Jan: ‘Ok, but don’t get too close. I’ll get back to you shortly once I am done with checking the parameter bounds of the process the guys are executing.’
+
+I examined the subject best as I could with my eyes. I couldn’t tell that it was artificial at all. Maybe its skin was a tad bit too perfect for reality. Maybe not; I was conjuring up reasons to explain my pre-biased perception that it was artificial in the first place. The only obvious hint that something was different was the fact that its left pinkie finger was ‘snapped’ backwards to reveal a data port that was connected to a cable which snaked across the floor to an equipment rack mounted against the wall.
+
+There was a huge amount of information being displayed on the consoles near the black metal panel; everything from virtual blood pressure to neuronal activity was visualized. There were a few rather interesting statistics in bright bold font on the right most screen:
+
+Reserve battery charge: 0%
+
+Fuel reserves: 11%
+
+…
+
+Jan interrupted my curious eyes: ‘Done. The process should be OK now, or at least, I hope it’s good. Judging by your curiosity, you probably want to know more about ‘it’.’
+
+Me: ‘Yeah, everything you can tell me.’
+
+Jan: ‘Okay. Where should I start. Lenna is an amalgamation of multiple proprietary Xizor technologies.’
+
+Me: ‘That’s not much of an answer.’
+
+Jan laughed. ‘You obviously won’t fall for that. I’ll treat you to a more through overview. Lenna is a bio-mechanical robot. It has a carbon fibre composite skeleton that mimics human kinematics and joint movement closely through the use of micro-gyros, accelerometers and actuation servos embedded throughout the structure. High level motion instructions are used to drive the movement of this structure. This process is driven by a feedback loop comprising a network of high-speed embedded neural networks implemented on application specific integrated circuits in combination with the gryos, accelerometers and servos; motion objectives are first decomposed into low level servo activation patterns which are then adjusted to account for force feedback from the micro-gyros and accelerometers before being used to drive the servos themselves.
+
+The resulting motion is then fed back in and sensor data is reevaluated until the motion instruction is fulfilled; in this way the entire system works to achieve fine balance and movement control that is probably equivalent to that of a well-trained athlete. If you are familiar with human anatomy, all these components are essentially analogous and perform the same task as the localized control processes that operate in the human skeletomuscular system.
+
+All high level operational functions are controlled by a quantum computer running a neuronal simulator in real time; this serves as its artificial brain. Essentially, the neuronal simulator provides all services such as conscious control, thought, instinct and environmental processing that a normal human has. Yet another separate conventional computer system monitors and administers autonomous robotic functions like power regulation; these are largely procedural and would probably be analogous to the parasympathetic nervous system.
+
+It’s flesh, soft organs and skin are comprised of 3-d printed synthetic flesh bonded to the skeleton. Conductive channels embedded in the flesh link skin sensors to the neuronal simulator to provide haptic feedback for the system. The artificial soft tissues have the ability to regenerate and renew if necessary using nutrients absorbed from the fuel system. The flesh in what we term as high detail locations such as the face are integrated fully with artificial muscles; not all movement is controlled by servos - we used artificial muscle where fine control was necessary to achieve realism.’
+
+The speed at which Jan rattled off was amazing. I doubt I even understood it all, but to me it made sense from a system level engineering perspective: ‘Thank you for the whirlwind summary. It’s essentially a physical human emulator. You are implying that it has a full set of artificial internal organs?’
+
+Jan: ‘No, it only has physically accessible organs. You can read the documentation for details if you want.’
+
+Physically accessible organs. What on earth. I guess that would refer to organs which are purely cosmetic?
+
+Me: ‘What kind of fuel system does it use?’
+
+Jan: ’Ah. This is the most interesting part. During the design phase, we figured out that a robot built for such a purpose and aim should be able to continue operating even when located far away from an electrical recharge point. Thus, we set the goal of using sugar as a source of energy since most life depends on it and it is easily available and renewable on a worldwide basis.’
+
+I couldn’t decide if he was joking. ‘Sugar?’
+
+Jan: ‘Yes, sugar. The power system providing energy to the robot has a specially miniaturized fuel cell that oxidizes sugar to generate electrical power.’
+
+I was still amused. ‘So it eats sugar?’
+
+Jan: ’Not exactly. Theoretically it could do so, but it would need to consume that with a bit of water. The fuel cell requires an aqueous environment to oxidize the sugar because it depends on several engineered enzymes produced by a colony of application-specific artificial microbes to extract an electron flow from the reaction. Sugary drinks or even fruit juices actually fit the bill very well. It could operate on other fuels as well such as starch, alcohol or even hydrocarbons like oil, but the fuel cell has been tuned for sugar so that would probably be the most efficient. Actually, fruit juices are probably the most well rounded fuel since they provide some additional sustenance for the artificial microbes and in maintenance of its artificial skin in addition to the necessary sugar; however, such supplementation is not absolutely necessary on a regular basis by design.’
+
+Me: ‘So it chugs drinks?’
+
+Jan: ‘Yes, that’s the general idea. A couple litres of a typical sugar based beverage would keep it going for about 2 hours at full power. It’ll last longer if it’s in a lower power state. Usually it’s about 3 or 4 hours.’
+
+This was beyond my imagination. A curious thought popped up in my mind and I asked innocently: ‘Most sugary beverages contain lots of water. And oxidation of sugar produces water too. How does it get rid of that water?’
+
+*013*2017-03-27 13:37
+
+Largebio: Yeah, I completely understand where you are coming from. I'm was painting a 'reality' (if that even makes sense) that would probably be the typical reaction for 'most people'. I think I chose to frame it that way to hint of the dystopian future where this world is set in, a world where consumerism and personal image represent everything that there is to life.
+
+*015*2017-03-28 09:20
+
+6. Activation
+
+Just as I asked that question, a loud chiming noise started emanating from the console that Jan was standing in front of. I glanced at it and saw a huge warning message.
+
+Significant event marker: Neuronal pattern x0192389 observed. Muscle deactivation eminent. Apparent trigger: Waste has reached estimated threshold limit. Subject power state: Standby. Warning: Unpredictable behaviour, please take necessary precautions.
+
+Reserve battery charge: 0%
+
+Fuel reserves: 1.3%
+
+Jan shouted: ‘Michael, why did the reserves drop to 1.3%? You told me you checked that the energy requirement for this round of matrix alteration was only going to consume 1-2% didn’t you??’
+
+Michael, one of the dudes who I didn’t have much of an impression of, replied from a desk situated at the main cluster of displays that Elina was standing at: ‘I think our calibration’s off, boss. It happened earlier today during training and it looks like it’s happening again. Alteration processing is at 99.98% now though, so it should have 1% fuel left based on my estimate.’
+
+Jan snapped back: ‘I told you your idea of training using live power is really bad and I told you to switch it to external aux power. You obviously forgot again. How many times must I tell you: I don’t want memory loss to happen!’ Michael shrivelled back into his chair and started typing furiously.
+
+Jan turned back to me and explained in a much calmer voice: ‘The robot has a stomach of sorts. It stores energy in the form of whatever it drinks as reserves, ready to be used by the fuel cell to generate power. Usually, when we do intelligence matrix alteration, we shut down the robot completely and bring it onto auxiliary external power because it consumes a lot of energy. The shut-down process is quite complex and lengthy, as is the start-up process. Our brilliant chap here calculated that we could save a lot of time by leaving the robot in self-powered mode throughout the process and using internal power reserves. As you can see, it’s not working out!’
+
+Suddenly, another warning popped up on Jan’s console.
+
+Matrix alteration complete. Subject state altered to Running by process protection profile line no:231. Please engage interaction protocols. Possible Trigger: Low reserve state. Warning: State incompatible with previous states. Behaviour not modelled.
+
+I instinctively reacted to the phrase ‘interaction protocols’. I need to switch away from ‘it’ now. She’s live.
+
+Suddenly, the robot started moving. Her eyes remained closed but went from relaxed to scrunched up; the first noise out of her mouth was a moan. She was moving her limbs but was bound by the straps. It was obvious within 2 seconds that she was trying to move her legs together. Suddenly, without warning, a loud hissing noise echoed through the room and the front of the grey skirt she was wearing started darkening.
+
+My own bladder reacted by tingling violently as I heard the noise and observed the event. Oh no. She pees too? I tensed my muscles and clenched my hands with the effort of overcoming my own urge as I saw liquid dripping down onto the concrete floor between her legs. I unconsciously started counting the seconds as they passed. It was all over in 7 seconds. So, that was what the stain on her skirt was. It’s wet again exactly at the same spot. And that’s how she gets rid of excess water after processing. Did that count as her wetting herself? Either way, I need to find a bathroom soon.
+
+There was suddenly a flurry of activity in the room. Some people hurriedly grabbed their belongings and left the room quietly, Jan was typing furiously at his console, the burly guy was grabbing what looked like a very large 18 litre standard bottle with a flexible drinking spout attached and a mobile ladder from the side of the room. He proceeded to move both towards the centre platform. I glanced around and saw Elina nearby; she was in a state of shock at what just happened. I could see her rubbing her knees together; obviously, she was suffering the same plight as I did in seeing another creature engaging in release. Maybe I should really get her to go with me to pee.
+
+The robot slowly opened her eyes and looked around. She had lovely blue eyes and pretty lashes, however, they had a hint of worry in them. ‘I need a drink’, were her first words. She had a soft, very feminine and altogether rather sensual voice. The burly guy quickly positioned the ladder near her and carried up the bottle such that she could reach the drinking spout with her mouth; he held the entire bottle upside down as she started drinking.
+
+I stood transfixed, ignoring the pressing need in my bladder. I was pretty sure there was already a wet spot from the sudden wave that caught me by surprise; I felt some coolness between my thighs from the evaporating pee. It was a sign I definitely had to go soon, but this was just amazing to watch. I could see the indicators on her status display on the console changing as she drank: Fuel cell fuel reserves: 5%... Fuel cell fuel reserves: 12%...
+
+She continued for about a minute; I could see her very flat belly expanding as she drank. It was still flat but was now just slightly more curved than before. Fuel cell fuel reserves: 103%. She was done when she had finished about a third of the 18 litre bottle. That’s like 5 or even six litres of fluid. Wow. She sure has a big stomach. She nodded; the burly guy pulled it away as she looked down at her own body. She looked up again and saw me; I could see that she looked rather shocked. ‘Sorry for the show I must have put up.’ She turned to Jan, ‘Thank you for reprogramming the matrix again, I feel better now. And sorry for urinating on your floor again. I still cannot figure out how to properly control those muscles there.’
+
+Jan replied, ’It’s ok. Don’t worry about that. I am glad you feel better and that we could help. Here, Bruce will help you get down.’ The burly guy undid her straps. She let herself fall towards him into a fireman lift position; he wrapped his hand around her butt as he brought her down a couple of steps on the ladder. He gently crouched and placed her on her feet as she steadied herself. He held up her left hand, gently undid the clip holding the data cable into the socket at the base of her left pinkie and literally snapped her finger back.
+
+Jan continued, ‘We have someone new to introduce to you today, Lenna. This is Aisha. She will be spending time with you to understand you better.’
+
+‘Hi Aisha.’, Lenna said as she took several steps towards me, raising out her hand, seeming to forget about the fresh wet patch on the front of her skirt. Her hips swayed slightly as she walked an unnecessarily sensual stride. She had impeccable balance even in her heels, which were higher than mine, and easily handled the uneven lab floor. Overall she stood roughly the same height as I did.
+
+Her movements were organic, perfect and almost hypnotic, but to my eyes the style bore a striking resemblance to something I have seen before. They obviously got her to learn from that fashion model motion capture dataset which everyone’s been using. I have seen this before in kinematic simulations. Not again. Nothing's ever new, huh. Either way, she was beautiful and reproduced them perfectly. I hesitated for a moment before sticking out my hand to receive her handshake. ‘Hi Lenna. This is my first day in today so I don’t quite know many things yet. Everything I have seen so far is absolutely amazing.’
+
+Lenna looked confused. ‘Do you refer to urinating as amazing?’
+
+‘No, no. I meant you. You’re amazing.’
+
+Lenna smiled. It was the first smile I had seen from her since she woke up and was similar in sweetness to Elina. Did she learn this from Elina?
+
+Elina suddenly made herself present. She started ‘Hi Lenna, remember me?’
+
+Lenna turned towards Elina and said ‘Yes! Are you here so that you might pick me up?’
+
+‘Cool! Shall we get going soon? We could have lunch together with Aisha!’ Elina chirped.
+
+I looked at Elina; her left hand was twirling her waist length hair and her legs were very obviously pressed together. Maybe that’s why she wants to get going soon. I suddenly felt a tingle of my own coming and almost wanted to squeeze myself with my hand; I clenched as hard as I could. My concentration was broken by Elina’s voice ‘Aisha, are you ok? You look distressed.’
+
+I didn’t know it was showing on my face. ‘No, I think I’m fine. Just trying to take it in maybe?’, lying through my teeth.
+
+Elina continued: ‘Jan, would there be anything else you would like me to show Aisha?’
+
+Jan looked at all of us and said, ‘No, it should be fine. I think Aisha is well versed with this and is probably more qualified than I am to decide what to do next. You could go ahead with Elina and Lenna first to HQ while I clean up and close up the lab. It’s going to take quite a while after all the data that was generated today.’
+
+I looked at Jan: ‘Could you send me those specifications and the documentation? I want to have a look.’ Jan nodded and went on with his work.
+
+Elina seized the opportunity and said ‘Ok, let’s go!’
+
+*016*2017-03-29 09:10
+
+7. Drones
+
+She grabbed Lenna’s hand and signalled for me to follow her towards the door. I took small quick steps and clenched as I felt another wave coming; my pace made it seem like the door was further than it was. I gingerly looking back to smile at Jan as I stepped out of the room. Elina was already one container-block away when I looked out. What a hasty exit compared to our entry. Either way, I hope her interests are the same as mine – to find a bathroom.
+
+I hurried myself to catch up with Elina. My hands were clenched by my side as I expended effort to hold my pee in for the third time today. It was only then that I realized I was still holding the slightly-less-than-third full water bottle in my left hand; I had been squeezing it so much as part of my clenching efforts that the paper label on the bottle was almost being rubbed off. Oops. Looks like it was really obvious I had to pee. I am starting to think that this place is a bathroom nightmare. Why else does Elina head back to HQ just for a bathroom? I must be careful.
+
+Despite my efforts, my pace was significantly slower than Elina; I had to pause twice to hold myself. Elina was already seated in the rover with her sunglasses on and was tapping the authorization token on the hand-hold in front of her when I reached the main set of doors. Lenna was beside her looking rather dazed from the brightness of the sunlight. She looked almost like an anime character with her perfect skin, white top, blue jacket and dark grey skirt; the rather cartoonish rover only served to emphasize this fact.
+
+I got to the rover, and took a step up to sit beside Lenna since it could fit three of us in a row. The effort of taking a big step triggered another bladder spasm and I clenched my muscles as hard as I could. I could hear the faintest of moans escaping my mouth as I did so. Nevertheless, the effort seemed worth it; it was so much better sitting down. The pressure applied against my urethra by the seat as I sat down was such a relief.
+
+Lenna obviously heard it; she asked with a concerned tone: ‘Are you OK?’. I looked at her; it was almost magical that a robot was asking me if I was fine. She had a genuinely concerned look on her face. Elina heard it and just commented: ‘It’s OK Lenna, I think Aisha just needs to pee.’
+
+I was startled. Elina was more straightforward and observant than I thought. I bent forward a little without disturbing my bladder and glanced at Elina who was just about to tap the token on the rover activation panel. She looked back and smiled as the rover went off. ‘Well, I guess you should really call that being in HR for too long. You will tend to notice people’s needs after a while. I was thinking you might not want to use the bathroom in Lab 28 since it sucks compared to the one in HQ. Hope you can make it back in time?’ She winked.
+
+I was lost for words and found myself rather embarrassed that somebody else was taking my own personal needs into account to schedule what she was doing. I just muttered a ‘Thank You’ and blushed. Elina smiled again. Lenna looked like she was working overtime to understand us; she was staring at my blush with a quizzical face. ‘It’s OK Lenna, thank you for your concern. Elina’s right, I just need to visit a bathroom and I have been making an effort to hold my pee.’
+
+Lenna replied: ‘You’re welcome. Hold your pee? I don’t understand. You mean prevent from urinating?’
+
+‘Yes Lenna. We use ‘pee’ colloquially. Urinating is rather formal.’
+
+‘Ok. I have noted word usage pattern. I will try using it. I have more questions but I think maybe later is better.’ She indeed looked like she was holding back many more questions. I wonder what they are. Maybe she feels they are inappropriate.
+
+I smiled. Looks like they trained her to be rather polite. We were speeding down the path that we came by, passing the same buildings that we saw on the way to the Lab. What were we taking Lenna away for? How should I ask this without making it sound like we were managing Lenna?
+
+‘Elina, where are we going exactly?’
+
+‘Oh, back to HQ. To find you a bathroom.’, Elina replied chirpily. I blushed even more and felt like a little girl. ‘I mean...what are we doing after?’
+
+‘Well, we could go to the café at the top of HQ for lunch? It’s decent food and has a nice ambience. Maybe we could all get to know each other a little better there.’
+
+‘Great.’, I commented.
+
+Suddenly, a beeping noise emanated from the console in front of Elina. I turned to look at it; the screen was red with text that read ‘Security has disabled this rover. It is being pulled aside. Please step out after it has come to a complete stop for a security check.’
+
+Elina went nuts. She frantically started rummaging through all her blazer pockets; Lenna and I looked on at her for directions as the rover slowed and pulled to the side of the path it was travelling on. We were beside a grass patch with a manicured hedge on it that acted as a natural fence for a very modern looking building that was adorned with glass panels at strange angles. She looked at both of us in dismay as she went through her pockets again.
+
+‘My security pass! I left it at the Lab!’
+
+She stared at us and almost looked like she was about to start crying.
+
+I tried to reassure her. ‘It’s ok, maybe we can go back and get it?’
+
+She pointed to the ground around the rover frantically and said: ‘No! We can’t! The drones will come and goo us up again!’
+
+I looked at her in disbelief. Dismay was starting to wash over me as I felt my bladder tingle again. ‘What? Goo us up? How? To what? To the ground?’
+
+*018*2017-03-30 10:10
+
+Sorry Bellatrix, you'll have to wait for the next chapter for that to be answered.
+
+8. A Protest
+
+‘Yes!!! They will goo us to anything!’ Elina buried her face in her hands. ‘Sobz. Really sorry about this, Aisha. I would forgive you if you hated me for this for the rest of your time here. I was trying so hard to get everything right and I just had to screw this up! Why must it be like this! I am such a useless bump…really…and...’
+
+I looked on at Elina as tears welled in her eyes and I knew whatever comfort both of us could offer was useless. Lenna stretched out her arms and gave Elina a hug; I was impressed but had bigger worries. My bladder was starting to constantly tingle; I was already clenching all I could in addition to pressing myself into the seat. ‘What do we do now?’
+
+Elina: ‘We wait for the drones to come.’
+
+I blurted out: ‘What will they do?’
+
+‘They will make us come out of the rover and goo us to wherever we are!’ Elina wailed again. I realized that my question led back to the issue and was pointless. I wished I hadn't asked it; it made me feel bad emphasizing that we were about to be gooed up, whatever that meant. My mind buzzed. A random thought came across me.
+
+Me: ‘Since we are already going to be gooed, whatever that means, why don’t we choose a comfortable position to be gooed in?’
+
+Elina and Lenna looked at me. I felt I had made the stupidest suggestion on earth (and on Mars, since there was technically a colony on Mars) until Elina grinned.
+
+Elina: ‘Good idea. It’s a nice day to lay down on the grass anyway. Let’s go!’
+
+Elina jumped off the rover seat and ran to a wider section of the grass patch; she suddenly stopped, looked back and called out to the both of us. She looks like she’s squeezing her thighs together. Lenna got off the rover while I was still trying to work out what was the most effective way to minimize jolts to my bladder. I clenched as hard as I could as I stood up; the tingling almost overpowered me as I felt myself yearning for release. I paused to squeeze again as I felt a small spurt escaping into my damp panties. My thighs and butt were sweaty again from all the effort. All the clenching was making my privates very sensitive again. Sigh. Not again.
+
+I took small steps towards where Elina and Lenna were already lying down with their backs against the grass. They had their knees bent pointing skywards with their feet placed slightly more than shoulder width apart; they looked like typical sunbathers other than the fact that they were fully clothed. Elina didn’t seem to care about the fact that her positioning was such that the space between her thighs was pointing in the direction of the path. This effectively gave all oncoming vehicles and passengers a clear view of more or less everything up her skirt. She was clearly wearing white panties, like mine, although they were a slight different texture. Probably cotton.
+
+‘You really look like you have to go’, she commented as she saw me approaching. ‘Yes, I do have to go pretty bad.’, I replied.
+
+‘Well, it’s ok, I have to go too. We can all go on the grass together after we are gooed up.’ Elina replied rather chirpily.
+
+‘What?’ I was shocked at the sudden reversal in attitude towards the prospect of being gooed up. Regardless, I noted that the way Elina started almost all her sentences with ‘well’ was increasing the cuteness level whenever she went into her chirpy mode. ‘Okay...but...won’t we create a spectacle?’
+
+‘Well, I have been against this gooing policy since I came here. I got gooed up while trying to find the toilet on the first day here. It was horrible. I got gooed to a pillar for stepping into a security zone I wasn’t cleared for and I didn’t make it. I peed myself while I was waiting for them to release me. Fancy you getting to hear this without treating me to lunch. Anyway, since it’s going to be lunchtime, our antics will probably be seen and maybe management will reconsider the gooing policy...’
+
+‘Thanks for sharing, and ok, I’ll treat you to lunch okay? So, what’s the best way to get gooed?’ I was mildly amused at the idea of a protest and momentarily forgot about my bladder.
+
+‘I’m just joking about lunch, come on. Stick out your hands above your head, they will goo your hands and your feet. I am putting my legs apart like this cos I am expecting that I might pee myself.' Elina paused. 'Maybe I might as well pull my skirt up. I don't want a soggy skirt.', she said as she pulled her skirt upwards and folded it up. Her panties were now completely exposed. 'And besides, I want to be gooed like this on display as part of my statement.’
+
+A very sensual protest, I might add. I’m wondered if it would do more harm than good. After all, it seemed to me so far that the campus was mostly male dominated. I’m sure they won’t mind three pretty ladies being gooed up for some bonus lunch scenery? Lenna was simply following Elina and glanced at me expectantly to lie down beside her. She fortunately didn't pull her skirt up. There was nevertheless a strange sparkle of excitement and mischievousness in her eyes. Should I join?
+
+*021*2017-03-31 10:03
+
+9. Bonded
+
+My time of contemplation ran out as a swam of about ten flying drones descended upon us with a din. I was rudely shoved on the back at shoulder level by one of the drones and fell onto the ground beside Lenna; the shock caught me by surprise and I spurted again into my panties before regaining control. I exhaled with the effort of doing so. At this rate, I might seriously wet myself. Looks like Elina's position is best. The pee needs to flow somewhere. I don't want it pool on my skirt's inner waterproof coating and wet my blouse. Quickly, I got into the same position as Elina; pulling my skirt up a little to expose my soaked panties before sticking my hands above my head.
+
+Almost immediately after I got into position, the drones started swarming around our hands and feet spraying what felt like a cool liquid. It was viscous and seemed to fit the description of goo that Elina was using. I could feel a follow-up tingle building from the bladder shock I just received as the drones completed their run; I instinctively tried pressing my thighs together in reaction to the build-up. It was the only thing I could do in the position I was in and I was not confident that it would help; regardless, any help was better than none.
+
+The goo was setting fast; it had bonded not just my feet but my ankles as well. I managed to close the gap between my knees by only a few centimetres despite the considerable effort I put in. My legs were effectively still wide apart. Shucks. I’m going to have to hold it like this. I wanted to use my hands to hold myself so badly but they were held fast to the ground above my head. I squirmed in place as I tensed up. A strange new feeling washed over me; it struck me suddenly that I had never ever been in such a situation despite the hundreds of wettings I had experienced in my life so far. This was a new feeling altogether.
+
+It was both agony and pleasure to be forced to hold my pee while being denied the chance to physically aid my holding. I was depending purely on my Kegel training to keep my pee in check. I could feel my inner thighs quivering and my butt squeezing while I put every bit of effort I could muster into keeping my urethra shut.
+
+My bladder was protesting strongly from the lack of capacity as well as the irritation of the tea I drank and was contracting. It was winning. Pee seeped out of me with every new bladder contraction; I could feel that my panties were getting very, very wet as the cool breeze blew over us. Nevertheless, being denied any aid or recourse from my predicament felt good. Really good. It was strange; I felt like I always wanted control and here I was enjoying being controlled by a few gobs of goo. The bind on my feet and hands somehow served to accentuate the tension that was building in my body as I fought my rouge bladder. I continued clenching, clenching and holding on. It felt good.
+
+Suddenly, I felt the lights dimming. Oops. Ok. Maybe I really shouldn't have held on. I guess I was asking for it. It feels so good. Maybe I should stop the clenching and just wet myself for the sake of my dignity. I tried relaxing my pelvic floor against the hard-wired social norm of tensing up, of not wetting while in my clothes. A small squirt made its way out, but I was already too far down the road; I uncontrollably clenched just as I felt the squirt reaching my panties. Little tingles of sexual pleasure radiated from my pussy as I did so.
+
+I felt a spasm building and uncontrollably released and clenched again. My pelvis was in the air, my back was arching upwards and I was squirming from the pleasure. The cycle was repeating; my muscles down there were releasing and clenching as I started jetting pee in spurts. I was having an orgasm, regardless of whether the time was right or not. Heck it. Might as well enjoy the release..mmmm..it feels so good. I tried to keep as quiet and still as I could; but I was at a point that I didn't really care. I couldn’t hear much other than the drones buzzing and as far as I was concerned I was in sexual heaven, on the grass, starting to wet myself while gooed up.
+
+The thought of my surroundings and being gooed up was somehow really kinky; I climaxed again after two or three more spasms when the awareness of the situation I was in fully entered my mind. I could feel my hot pee being injected into my panties each time I clenched and released. The pleasure from each spurt was overwhelming. I squirmed even harder; my back muscles, stomach muscles, thigh muscles and butt muscles were working overtime to keep up. I was becoming breathless. Pee was coming out of me at full force and the intermittent hiss managed to reach my ears above the din from the drones. One final clench overcame me as I felt myself almost passing out; I fought with all my effort against the bindings as I felt the sexual satisfaction of releasing the last spurts of pee from my bladder.
+
+I was empty and it was all over in about 20 seconds; I collapsed back down onto the ground as it ended. I was exhausted and breathed a sigh as I returned to feel the nice cool breeze under the beautiful blue sky. My body relaxed onto the grass, oblivious to my surroundings; my eyes closed sleepily as I entered in a newfound state of calm and peace.
+
+*023*2017-04-02 13:24
+
+10. Pre-peeing
+
+‘Aisha?’
+
+I opened my eyes and immediately squinted as the sky once again filled my view. I turned to the right towards the voice. Lenna was about half a meter away from me and was fixated on me with a curious and intrigued stare. I could feel the embarrassment on my face as it heated up. Shucks. What am I going to tell her now. She probably saw everything. She’s going to ask.
+
+Surprisingly, she didn’t. She turned towards Elina and asked: ‘Elina, could you tell me what happens now? I don’t seem to be able to move my legs or arms.’
+
+Wonder what Lenna has in mind. Elina chirped: ’Well, we wait till human security shows up. I think the drones are confused because two of us have security tags and I don’t. They’ll go away soon. Aisha, how are you doing?’
+
+Phew. She sounds like she didn’t hear my orgasmic wetting. ‘I..umm..I am good. With the exception that..’ I could feel my face heating up with embarrassment as I admitted ‘I just wet myself.’
+
+‘Oh. No wonder you were making those…noises…’ Elina replied, obviously thinking of a word to describe my vocalizations. Dammit. I was probably flushing bright red with embarrassment. My face felt like it was going to burn up. She continued: ‘Well, it’s ok. I think I won’t make it either. Can’t squeeze anything together like this. Just enjoy the nice cool breeze and sun I guess for the next 10 minutes.’ The hovering drones buzzed away in formation just as she completed her sentence, as if on cue.
+
+Lenna commented ‘The drones were actually very noisy. I was wishing that I hadn’t asked for an increase in sensitivity of my ears.’ I looked at Lenna with some degree of perplexity. She saw me and smiled. ‘I guess somebody like me has regrets too.’ She’s more complex than I thought.
+
+Elina started humming a bright tune. ‘It’s almost lunch I think.’ She was right. In the next minute, other similar rovers to the one we were sitting in started appearing along the path; I could see people riding, cycling and walking by on their way to lunch. We were obviously a spectacle; I could see people pointing and observing us at a distance from the corner of my eye. I secretly thanked that I had wet myself already; I couldn’t imagine the embarrassment of having an orgasm right now with so many people watching.
+
+Elina’s tune suddenly stopped and was replaced by a single mewing noise; the same kind of mew I heard in the HQ bathroom earlier. Was that her holding? I seized the opportunity and asked: ‘Elina you doing good there?’
+
+Elina didn’t reply until 5 seconds later: ‘Well, I did say I need to go too, right. I think I just leaked a little.’
+
+A strange sense of excitement washed over my mind. That was the first time that I had heard another female admit she had leaked in her panties. It was strange, but I suddenly had this desire to see the wet cloth clinging to Elina’s skin. To see her trying hard to hold it all in. She was so small and cute. I wonder how long she can hold it for. Does it feel nice for her as it does for me? I closed my eyes and imagined her squirming with pleasure. Maybe I am bisexual after all.
+
+‘Why don’t you just relax and let it out?’ I asked.
+
+‘Hmm. Brilliant! Why didn’t I think of that. Guess you are smarter than me after all. Is that what you did?’ Elina replied.
+
+‘Not exactly…’ my voice trailed off as a hiss filled the air around us. Please don’t ask me what happened?
+
+‘Ahh…’ Elina was obviously feeling good.
+
+‘I think I need to uri.. pee soon too.’ Lenna awkwardly stammered in response. She paused and went on: ‘Elina’s…noise is intensifying strange perception pre-uri..peeing....’
+
